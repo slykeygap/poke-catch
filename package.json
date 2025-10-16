@@ -3,7 +3,7 @@
 	"private": true,
 	"scripts": {
 		"install": "npm --prefix poke-back install && npm --prefix poke-front install",
-		"build": "npm --prefix poke-front run build && npm --prefix poke-back run build",
+		"build": "npm --prefix poke-front run build",
 		"start": "npm start --prefix poke-back"
 	}
 }
