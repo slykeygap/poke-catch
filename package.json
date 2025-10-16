@@ -1,0 +1,9 @@
+{
+  "name": "poke-catch",
+  "private": true,
+  "scripts": {
+    "install": "npm install --prefix poke-back && npm install --prefix poke-front",
+    "build": "npm run build --prefix poke-front",
+    "start": "npm start --prefix poke-back"
+  }
+}
