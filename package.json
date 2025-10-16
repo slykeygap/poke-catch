@@ -2,8 +2,8 @@
 	"name": "poke-catch",
 	"private": true,
 	"scripts": {
-		"install": "npm --prefix poke-back install && npm --prefix poke-front install",
-		"build": "npx vite build --config poke-front/vite.config.js",
+		"install": "npm install --prefix poke-back  && npm install --prefix poke-front",
+		"build": "npm install --prefix poke-front && npx vite build --config poke-front/vite.config.js",
 		"start": "npm start --prefix poke-back"
 	}
 }
