@@ -5,5 +5,8 @@
 		"install": "npm install --prefix poke-back  && npm install --prefix poke-front",
 		"build": "npx vite build --config poke-front/vite.config.js",
 		"start": "npm start --prefix poke-back"
+	},
+	"dependencies": {
+		"vite": "^7.1.10"
 	}
 }
