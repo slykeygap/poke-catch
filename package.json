@@ -3,7 +3,7 @@
 	"private": true,
 	"scripts": {
 		"install": "npm install --prefix poke-back  && npm install --prefix poke-front",
-		"build": "npm install --prefix poke-front && npx vite build --config poke-front/vite.config.js",
-		"start": "npm install --prefix poke-back && npm start --prefix poke-back"
+		"build": "npx vite build --config poke-front/vite.config.js",
+		"start": "npm start --prefix poke-back"
 	}
 }
