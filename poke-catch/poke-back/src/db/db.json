@@ -1,0 +1,156 @@
+{
+  "users": [
+    {
+      "uid": "5so9ozLnU1SQQ21Umnc0Z6XW35n1",
+      "displayName": "Nai",
+      "avatar": 10,
+      "pokedex": {
+        "-1": {
+          "variants": {
+            "normal": {
+              "seen": 3,
+              "obtained": 2
+            },
+            "shiny": {
+              "seen": 1,
+              "obtained": 1
+            }
+          }
+        }
+      },
+      "masterBalls": 2,
+      "dailyCatches": 0
+    },
+    {
+      "uid": "b7e84124-6dd4-4207-90bb-05321ffb186f",
+      "displayName": "#Guest7841",
+      "pokedex": {
+        "1": {
+          "id":1,
+          "variants": {
+            "normal": {
+              "seen": 5,
+              "obtained": 5
+            },
+            "shiny": {
+              "seen": 0,
+              "obtained": 0
+            }
+          },
+          "name": "bulbasaur",
+          "rarity": "common",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+          "shinySprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1.png",
+          "animatedSprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif",
+          "animatedShinySprite": "https://img.pokemondb.net/sprites/black-white/anim/shiny/bulbasaur.gif",
+          "height": 0.7,
+          "weight": 6.9,
+          "types": [
+            "grass",
+            "poison"
+          ]
+        },
+        "2": {
+          "id":2,
+          "variants": {
+            "normal": {
+              "seen": 2,
+              "obtained": 1
+            },
+            "shiny": {
+              "seen": 0,
+              "obtained": 0
+            }
+          },
+          "name": "ivysaur",
+          "rarity": "rare",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+          "shinySprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/2.png",
+          "animatedSprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/ivysaur.gif",
+          "animatedShinySprite": "https://img.pokemondb.net/sprites/black-white/anim/shiny/ivysaur.gif",
+          "height": 1,
+          "weight": 13,
+          "types": [
+            "grass",
+            "poison"
+          ]
+        },
+        "3": {
+          "id":3,
+          "variants": {
+            "normal": {
+              "seen": 1,
+              "obtained": 1
+            },
+            "shiny": {
+              "seen": 0,
+              "obtained": 0
+            }
+          },
+          "name": "venusaur",
+          "rarity": "common",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+          "shinySprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/3.png",
+          "animatedSprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/venusaur.gif",
+          "animatedShinySprite": "https://img.pokemondb.net/sprites/black-white/anim/shiny/venusaur.gif",
+          "height": 2,
+          "weight": 100,
+          "types": [
+            "grass",
+            "poison"
+          ]
+        },
+        "70": {
+          "variants": {
+            "normal": {
+              "seen": 1,
+              "obtained": 1
+            },
+            "shiny": {
+              "seen": 0,
+              "obtained": 0
+            }
+          },
+          "name": "weepinbell",
+          "rarity": "common",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+          "shinySprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/70.png",
+          "animatedSprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/weepinbell.gif",
+          "animatedShinySprite": "https://img.pokemondb.net/sprites/black-white/anim/shiny/weepinbell.gif",
+          "height": 1,
+          "weight": 6.4,
+          "types": [
+            "grass",
+            "poison"
+          ]
+        },
+        "139": {
+          "variants": {
+            "normal": {
+              "seen": 1,
+              "obtained": 1
+            },
+            "shiny": {
+              "seen": 0,
+              "obtained": 0
+            }
+          },
+          "name": "omastar",
+          "rarity": "rare",
+          "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+          "shinySprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/139.png",
+          "animatedSprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/omastar.gif",
+          "animatedShinySprite": "https://img.pokemondb.net/sprites/black-white/anim/shiny/omastar.gif",
+          "height": 1,
+          "weight": 35,
+          "types": [
+            "rock",
+            "water"
+          ]
+        }
+      },
+      "masterBalls": 3,
+      "dailyCatches": 18
+    }
+  ]
+}
