@@ -2,7 +2,7 @@
 	"name": "poke-catch",
 	"private": true,
 	"scripts": {
-		"install": "npm install --prefix poke-back && npm install --prefix poke-front",
+		"install": "npm --prefix poke-back install && npm --prefix poke-front install",
 		"build": "npm --prefix poke-front run build && npm --prefix poke-back run build",
 		"start": "npm start --prefix poke-back"
 	}
