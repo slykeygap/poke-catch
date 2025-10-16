@@ -1,7 +1,7 @@
 import app from './app.js'
 
-const PORT = process.env.PORT || 3001
-const HOST = process.env.HOST || 'localhost'
+const PORT = process.env.PORT || 80
+const HOST = process.env.HOST || '0.0.0.0'
 
 app.listen(PORT, () => {
   if (process.env.PORT) {
@@ -10,3 +10,4 @@ app.listen(PORT, () => {
     console.log(`Servidor corriendo en http://${HOST}:${PORT}`)
   }
 })
+
